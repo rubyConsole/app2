@@ -1,6 +1,6 @@
 declare namespace Mastodon {
   type Account = {
-  // Base
+     // Base
     id: string
     username: string
     acct: string
