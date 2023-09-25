@@ -6,7 +6,7 @@
 
 ## Contribute to translation
 
-Please **do not** create a pull request to update translation. tooot's translation is managed through [https://crowdin.tooot.app/](https://crowdin.tooot.app/) and Crowdin struggles to properly sync two ways. If there is a minor update and you do not want to register an account on Crowdin, please open an issue.
+Please **do not** create a pull request to update translation. tooot's translation is managed through [https://crowdin.tooot.app/](https://crowdin.tooot.app/) and Crowdin struggles to properly sync two ways. If there is a minor update and you do not want to register an account on Crowdin, please open an issue
 
 ## Special thanks
 
